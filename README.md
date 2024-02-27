@@ -1,4 +1,4 @@
 # mi-primer-repositorio
 haciendo un curso
-##descripcion
+## descripcion
 este es un repo de dalto creado para un curso
